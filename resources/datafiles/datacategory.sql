@@ -3,5 +3,5 @@ insert into `category` (`Name`,`Image`) values
 ('Trà Tươi',''),
 ('Trà Sữa',''),
 ('Đá Xay',''),
-('Bánh Ngọt',''),
+('Bánh ọt',''),
 ('Bánh Mặn','');
